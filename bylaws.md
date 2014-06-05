@@ -431,23 +431,6 @@ Employees who are not collective members
     be paid an hourly wage less than the lowest paid member of the
     collective.**
 
-Collective Supporters
-=====================
-
-1.  Any person is eligible to contribute to the operations of the store
-    providing that the following conditions are met:
-    1.  The person attends at least one collective meeting proposing
-        their contribution to the store.
-    2.  The proposed contribution is approved by the Collective in
-        accordance with the decision-making procedure set forth in this
-        document.
-    3.  The person receives and continues to receive any necessary
-        training from a collective member.
-
-2.  Any collective supporter must agree to follow the terms of this
-    document, and the Red Emma’s Workers Handbook.
-3.  The Collective reserves the right to reevaluate and/or terminate the
-    contribution of a supporter at any time.
 
 **Departments**
 ===============
