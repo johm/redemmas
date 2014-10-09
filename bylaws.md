@@ -38,6 +38,13 @@ Functions and Objectives
         cooperative societies locally and around the world for the
         purpose of mutual aid and the creation of a cooperative society;
 
+Definitions
+===========
+
+1.  Red Emma’s LLC, hereafter “Red Emma’s”: the legal organization registered as a limited liability company in Maryland.
+2.  Collective: the group of people who have become members of Red Emma’s.
+3.  Non-member employees: the group of people who work for Red Emma’s, but are not Red Emma’s members.
+
 General Meetings
 ================
 
