@@ -51,6 +51,14 @@ Bylaws Generally
 1. The bylaws stated here shall also serve as the official operating agreement for Red Emma’s.
 2. Amendments to the bylaws shall be made in accordance with the procedure for major decisions stipulated in the Meetings Section.
 
+Assets of Red Emma’s
+====================
+
+1. All assets of Red Emma’s will be legally held by Red Emma’s. All debts of Red Emma’s will be legally in the name of the Red Emma’s. 
+2. Individual members of the Red Emma’s shall not be held liable as individuals for those obligations of Red Emma’s, whether arising in contract, tort or otherwise solely by reason of being a member of Red Emma’s.
+3. If the Collective should choose to dissolve Red Emma’s, the assets of Red Emma’s will first be used to pay off any outstanding debts incurred by Red Emma’s. The disposition of any remaining assets will be decided on in accordance with the procedure for major decisions stipulated in the Meetings Section.
+4. A court of competent jurisdiction shall not order the foreclosure of the economic interest of the worker-member subject to a charging order and order the sale of the economic interest of the debtor. This section shall supersede Section 4A-607(c)(3) of the Maryland Limited Liability Company Act.
+
 General Meetings
 ================
 
@@ -518,10 +526,6 @@ Advisory Council (proposed language, general direction agreed on in 2013)
 Relationship of the Red Emma’s Collective to Red Emma’s LLC
 ===========================================================
 
-2.  All assets of the collective will be legally held by the LLC. All
-    debts of the collective will be legally in the name of the LLC.
-    Individual members of the LLC shall not be held liable as
-    individuals for debts incurred by the LLC.
 3.  All management decisions for the LLC are to be made by the
     Collective in accordance with the decision making structure outlined
     in this document.
@@ -542,11 +546,7 @@ Relationship of the Red Emma’s Collective to Red Emma’s LLC
         right to exercise any rights as LLC members which are not
         specifically limited here without the approval of the
         Collective.
-    5.  If the Collective should choose to dissolve itself, the assets
-        of the LLC will first be used to pay off any outstanding debts
-        incurred by the LLC. The disposition of any remaining assets
-        will be decided on in accordance with the procedure stipulated
-        in section 2.2 (major decisions).
+
 
 
 Thread Coffee
