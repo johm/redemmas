@@ -66,10 +66,10 @@ Meetings
     Collective in accordance with the decision making structure
     outlined in this document.
 1.  The Collective will meet in a timely and regular fashion. 
-2.  **Full collective meetings take place on the first Monday of each
-    month, starting at 6:30PM.**
-3.  **The collective will meet quarterly to discuss budgeting and the
-    overall financial situation of the business.**
+2.  Full collective meetings take place on the first Monday of each
+    month, starting at 6:30PM.
+3.  The collective will meet quarterly to discuss budgeting and the
+    overall financial situation of the business.
 4.  Any decision to be made that affects the bylaws, membership,
     mission, formation and dissolution of committees, location or time
     of regular meetings, or any other major decision must be made during
@@ -142,12 +142,12 @@ Collective Membership
     6.  Work a minimum number of hours of 20 hours per month in one of
         the Collective’s projects.
 
-7.  **Every active worker-owner at Red Emma’s is an equal member of the
+7.  Every active worker-owner at Red Emma’s is an equal member of the
     LLC, with an equal voice in the business. Departments determine who
     counts as active, but the Collective/LLC as a whole can override
     these determinations. Good faith attendance at monthly
     full-collective meetings will be a prerequisite of active
-    membership.**
+    membership.
 8.  A member may take a leave of absence from the collective during
     which time the above responsibilities and privileges shall not
     remain in force. Upon reinstatement by the Collective, the member’s
@@ -182,58 +182,58 @@ Collective Membership
 Member’s capital
 ================
 
-1.  **As business capital, the members acknowledge that the money in
+1.  As business capital, the members acknowledge that the money in
     their capital account is at risk; in particular, other creditors
     external to the LLC may have claims on the assets of the LLC whose
     priority is greater than the claims of members. At the same time,
     the principle of limited liability insures that no member will be,
     at any time, liable for more than what they have invested in their
-    member capital account.**
-2.  **Members determined to be inactive can—and should—leave their
+    member capital account.
+2.  Members determined to be inactive can—and should—leave their
     capital share of the business in the hands of the LLC if they intend
-    to become active again .**
-3.  **Member shares**
-    1.  **When a new member is added to the LLC, that member will
-        contribute member capital in the amount of \$1,000 . This equity
+    to become active again.
+3.  Member shares
+    1.  When a new member is added to the LLC, that member will
+        contribute member capital in the amount of $1,000 . This equity
         remains the property of the member, and forms the basis of their
-        member capital account.**
-    2.  **If a member is not able to or would prefer not to invest the
-        \$1,000 share immediately, the LLC will advance the member a
+        member capital account.
+    2.  If a member is not able to or would prefer not to invest the
+        $1,000 share immediately, the LLC will advance the member a
         loan equal to that amount, with zero interest, to be repaid by a
         minimum automatic deduction of 50 cents/hour from their pay,
         with no fixed term of repayment, such that a full-time, 40
         hr/week worker-owner and LLC member will have repaid said loan
-        in 50 weeks. Members may also pay a portion of their \$1,000
+        in 50 weeks. Members may also pay a portion of their $1,000
         share up front, and pay the remaining funds through an automatic
-        deduction.**
+        deduction.
 
-4.  **Capital Accounts**
-    1.  **A member’s capital account represents the amount of investment
+4.  Capital Accounts
+    1.  A member’s capital account represents the amount of investment
         made by the member in the business. It is money that belongs to
-        them, but which they are allowing the business to use.**
-    2.  **An amount equal to no less than one quarter of the total
+        them, but which they are allowing the business to use.
+    2.  An amount equal to no less than one quarter of the total
         amount of member capital, in cash or other liquid assets, will,
         barring exceptional circumstances, be retained on hand by the
-        LLC.**
-    3.  **The amount recorded in a member capital account grows when:**
-        1.  **The member “buys their share” in the LLC.**
-        2.  **The member is allocated a patronage refund at the end of
+        LLC.
+    3.  The amount recorded in a member capital account grows when:
+        1.  The member “buys their share” in the LLC.
+        2.  The member is allocated a patronage refund at the end of
             the fiscal year, and the LLC, operating on a cooperative
             basis, retains up to 80% of this refund as allowed by law,
-            recording this retention in the member’s capital account.**
-        3.  **The member makes a loan of personal capital to the LLC.**
-        4.  **The member elects to have a portion of their wages
-            retained by the LLC .**
+            recording this retention in the member’s capital account.
+        3.  The member makes a loan of personal capital to the LLC.
+        4.  The member elects to have a portion of their wages
+            retained by the LLC .
 
-    4.  **The amount recorded in a member capital account decreases
-        when:**
-        1.  **The LLC elects to pay back a loan of personal capital made
-            by the member.**
-        2.  **The member elects to receive back wages they have
-            previously elected to retain in their capital account.**
-        3.  **The LLC elects to distribute some portion of retained
-            patronage refunds \* \
-            \#\#\#**The LLC allocates, at the end of the fiscal year, a
+    4.  The amount recorded in a member capital account decreases
+        when:
+        1.  The LLC elects to pay back a loan of personal capital made
+            by the member.
+        2.  The member elects to receive back wages they have
+            previously elected to retain in their capital account.
+        3.  The LLC elects to distribute some portion of retained
+            patronage refunds 
+        4.  The LLC allocates, at the end of the fiscal year, a
             member’s share of any loss incurred in that year, in
             proportion to the member’s share of the total held in all
             capital accounts. The LLC has the option of whether such
@@ -241,153 +241,153 @@ Member’s capital
             account, or merely reduce any future allocations of profit.
             Additionally, the capital corresponding to a) member shares
             and b) any loans from the member to LLC should not be
-            reduced by a share of operating losses.\*
+            reduced by a share of operating losses.
 
-    5.  **Records of member capital accounts will be available on a
+    5.  Records of member capital accounts will be available on a
         quarterly basis for inspection by all active members of the
-        LLC.**
+        LLC.
 
-5.  **Loans to collective members**
-    1.  **Members may choose to borrow against their member capital
+5.  Loans to collective members
+    1.  Members may choose to borrow against their member capital
         account, with the total amount advanced in this fashion not to
         exceed 1/2 of the recorded balance. Such loans must be approved
         by the LLC before being dispersed. Loans to members in other
         amounts, or against other assets of the LLC, are strongly
-        discouraged**
+        discouraged
 
-6.  **Member capital and departing members**
-    1.  **Upon a voluntary or involuntary exit from the LLC, the member
+6.  Member capital and departing members
+    1.  Upon a voluntary or involuntary exit from the LLC, the member
         will receive the amount accumulated in their capital account,
         less any outstanding debts of the member to the LLC, and less
         any damages incurred by the LLC and directly attributable, as
         determined by the LLC, to the actions of the member. Such
         payment will be made by the LLC no more than six months after
         their relationship with the LLC has been severed. The exact
-        schedule of repayment is to be determined by the LLC.**
+        schedule of repayment is to be determined by the LLC.
 
-7.  **Allocation of profit and loss**
-    1.  **All profit will be passed through for tax purposes to LLC
+7.  Allocation of profit and loss
+    1.  All profit will be passed through for tax purposes to LLC
         members in proportion to the amount of hours worked in the
         previous fiscal year. All loss will be passed through for tax
         purposes to LLC members in proportion to the share of the total
-        capital accounts held by the member.**
+        capital accounts held by the member.
 
 Wages
 =====
 
-1.  **The Red Emma’s minimum wage \$11/hr.\
-    \#**“Base wages” will be defined as the Red Emma’s “minimum” wage
+1.  The Red Emma’s minimum wage is $11/hr.
+    “Base wages” will be defined as the Red Emma’s “minimum” wage
     rate/hour, plus 50% of any additional hourly wage. “Surplus wages”
-    will be defined as the remaining 50%.\*
-2.  **Base wages will be paid every two weeks in a timely fashion.
+    will be defined as the remaining 50%.
+2.  Base wages will be paid every two weeks in a timely fashion.
     Surplus wages will be paid on a quarterly basis, but only after a
     determination by the LLC that the business was and will continue to
     be sufficiently profitable to make this distribution of wages to
-    members a wise decision.**
-3.  **The hourly wage rate will, at the discretion of the LLC, and on an
-    annual basis, be adjusted upwards , when the LL elects to:**
-    1.  **raise the base wage of every worker-owner**
-    2.  **establish a raise for current and future worker-owners based
-        on the length of time they have been members of the LLC**
-    3.  **establish a raise for current and future worker-owners based
-        on the total number of hours they have worked to date**
+    members a wise decision.
+3.  The hourly wage rate will, at the discretion of the LLC, and on an
+    annual basis, be adjusted upwards , when the LL elects to:
+    1.  raise the base wage of every worker-owner
+    2.  establish a raise for current and future worker-owners based
+        on the length of time they have been members of the LLC
+    3.  establish a raise for current and future worker-owners based
+        on the total number of hours they have worked to date
 
-4.  **However, at no point is the LLC allowed to raise wages such that
+4.  However, at no point is the LLC allowed to raise wages such that
     the difference between the highest paid and lowest paid member
-    exceeds a 2:1 ratio.**
-5.  **Additionally, the LLC may elect to give one-time bonuses to all
+    exceeds a 2:1 ratio.
+5.  Additionally, the LLC may elect to give one-time bonuses to all
     members, either in equal amounts or based on the amount of hours
     worked in a given period. Such bonuses should reflect anticipated
     surpluses, but do not need to wait for the final determination of
     profit/loss at the end of the fiscal year. Such bonuses should be
-    treated, for tax purposes, as extra wages.**
-6.  **In the event that the business enters a period of temporary
+    treated, for tax purposes, as extra wages.
+6.  In the event that the business enters a period of temporary
     financial distress, Red Emma’s worker-owners have the option of
     allowing their wages to accumulate in their capital accounts, rather
     than being distributed to them in cash. It is encouraged that no
     wages retained in this way remain in the member’s capital account
-    for any period longer than one year.**
+    for any period longer than one year.
 
 Hiring
 ======
 
-1.  **Hiring takes place either:**
-    1.  **When a department cannot fill allocated hours from within the
-        current collective**
-    2.  **When a department receives an allocation of additional paid
+1.  Hiring takes place either:
+    1.  When a department cannot fill allocated hours from within the
+        current collective
+    2.  When a department receives an allocation of additional paid
         hours from the full collective at a quarterly budgeting meeting,
-        or in exceptional circumstances, at a monthly meeting.**
+        or in exceptional circumstances, at a monthly meeting.
 
-2.  **The hiring process will be as follows:**
-    1.  **The department forms a hiring committee**
-    2.  **The department can solicit applicants in whatever way makes
+2.  The hiring process will be as follows:
+    1.  The department forms a hiring committee
+    2.  The department can solicit applicants in whatever way makes
         sense to them. This could be very informal, or involve a
-        publicly advertised position**
-    3.  **After narrowing down the candidates to people who they feel
-        should get an interview:**
-        1.  **The names of those candidates are circulated to the full
+        publicly advertised position
+    3.  After narrowing down the candidates to people who they feel
+        should get an interview:
+        1.  The names of those candidates are circulated to the full
             collective; there is a three day window before any interview
-            can take place in case someone has a blocking concern**
-        2.  **A person from outside the hiring department, selected by
+            can take place in case someone has a blocking concern
+        2.  A person from outside the hiring department, selected by
             the advisory council, joins the hiring committee and takes
             part in the interviews and selection of person to be
-            hired.**
+            hired.
 
-    4.  **Once a candidate has been selected:**
-        1.  **The candidate can start paid work immediately in a
-            probationary period.**
-        2.  **After at least 1 month + 20 hrs of work, after a
+    4.  Once a candidate has been selected:
+        1.  The candidate can start paid work immediately in a
+            probationary period.
+        2.  After at least 1 month + 20 hrs of work, after a
             departmental review, the new hire is interviewed by the full
-            collective at a monthly collective meeting.**
-        3.  **If the full collective approves the hire, they become a
-            provisional collective member.**
+            collective at a monthly collective meeting.
+        3.  If the full collective approves the hire, they become a
+            provisional collective member.
 
-    5.  **After three months:**
-        1.  **There is another departmental review.**
+    5.  After three months:
+        1.  There is another departmental review.
 
-    6.  **After six months as a provisional collective member:**
-        1.  **After a final departmental review, the full collective
+    6.  After six months as a provisional collective member:
+        1.  After a final departmental review, the full collective
             reviews the new hire, and if there are no blocking concerns,
-            the provisional member is added to the LLC.**
+            the provisional member is added to the LLC.
 
-    7.  **All reviews are recorded and kept on file, and are geared to
-        provide a standardized formula for evaluation.**
-    8.  **The existence of scheduled reviews by a department or the full
+    7.  All reviews are recorded and kept on file, and are geared to
+        provide a standardized formula for evaluation.
+    8.  The existence of scheduled reviews by a department or the full
         collective do not preclude termination for gross incompetence or
-        malicious behavior.**
+        malicious behavior.
 
 Firing
 ======
 
-1.  **Department- vs. Collective-level Firing**
-    1.  **Firing may be initiated at the department level or at the
+1.  Department- vs. Collective-level Firing
+    1.  Firing may be initiated at the department level or at the
         collective level. Firing is initiated at the department level in
         instances of incompetence, unprofessionalism, or general “bad
-        fit”.**
-    2.  **Firing at the collective level is reserved for behavior
+        fit”.
+    2.  Firing at the collective level is reserved for behavior
         sufficiently transgressive or destructive that it substantially
         impacts members of departments other than the department of the
-        worker in the firing process.**
+        worker in the firing process.
 
-2.  **Department level firing:**
-    1.  **Departments are mandated to develop written internal standards
+2.  Department level firing:
+    1.  Departments are mandated to develop written internal standards
         for competence and professionalism specific to the work of the
         department and make these standards available to collective
         members and new hires. It is the role of the department to
-        assess if a department member is adhering to these standards.**
-    2.  **Departments will develop internal procedures for initiating
+        assess if a department member is adhering to these standards.
+    2.  Departments will develop internal procedures for initiating
         firing and providing process to department members. No worker
         will be fired by a department without first being given the
         opportunity to discuss specific problems in their performance
         with the department. The intent of these discussions is to help
-        the worker in question to improve their performance.**
-    3.  **As an intermediate step or an alternative to firing,
+        the worker in question to improve their performance.
+    3.  As an intermediate step or an alternative to firing,
         departments may establish special benchmarks for individual
         workers meant to re-establish confidence in the good faith
         and/or competence of the department member . Departments are
         encouraged to develop a routine performance review process for
-        department members.**
-    4.  **Notes from any firing procedures, as well performance reviews,
+        department members.
+    4.  Notes from any firing procedures, as well performance reviews,
         and the details of any special benchmarks set for workers must
         be stored in a file in the Red Emma’s office and be available to
         any members of the collective. All of these documents must be
@@ -396,62 +396,61 @@ Firing
         under review is invited to attach their own explanatory notes .
         In the instance of firing due to consistent lateness or absence
         for shifts, individual instances of lateness or absence must be
-        documented.**
-    5.  **It is the policy of Red Emma’s that workers will not work in
+        documented.
+    5.  It is the policy of Red Emma’s that workers will not work in
         the store while intoxicated and repeated breach of this policy
-        may result in firing.**
+        may result in firing.
 
-3.  **Collective-level firing:**
-    1.  **A workeer who is alleged by another worker to have performed
+3.  Collective-level firing:
+    1.  A workeer who is alleged by another worker to have performed
         one of the following acts is banned from the store immediately
         and until an emergency closed collective meeting can be held:
         sexual or other physical assault on a collective member or other
         space-user, theft or malicious destruction of collective
-        property or property on the\
-        premises, clandestine collaboration with law enforcement or
+        property or property on the premises, clandestine collaboration with law enforcement or
         intelligence services, and illegally using or distributing drugs
         in or around the store. Failure to observe this ban will result
-        in firing.**
-    2.  **The purpose of the emergency meeting is to determine the
+        in firing.
+    2.  The purpose of the emergency meeting is to determine the
         factual circumstances of the event and the appropriate
-        collective response up to and including firing and banning.**
-    3.  **All decisions at these emergency meetings are treated as major
-        decisions.**
-    4.  **Other forms of obnoxious, harassing, or abusive behavior will
+        collective response up to and including firing and banning.
+    3.  All decisions at these emergency meetings are treated as major
+        decisions.
+    4.  Other forms of obnoxious, harassing, or abusive behavior will
         be addressed through the Red Emma’s grievance procedure, with
-        firing as a possible outcome.**
+        firing as a possible outcome.
 
-4.  **Logistics of Firing:**
-    1.  **A collective member who no longer has membership in any
+4.  Logistics of Firing:
+    1.  A collective member who no longer has membership in any
         department due to firing will be treated for all other purposes
         like a collective member who has voluntarily left the
-        collective.**
-    2.  **When a worker is fired at the collective level, all issues
+        collective.
+    2.  When a worker is fired at the collective level, all issues
         related to keys, passwords, and the disbursement of shares will
-        be determined by the collective on a case-by-case basis.**
+        be determined by the collective on a case-by-case basis.
 
 Employees who are not collective members
 ========================================
 
-1.  **As necessary, departments may decide to hire workers who do not
+1.  As necessary, departments may decide to hire workers who do not
     intend to become members of the collective, pursuant to the approval
-    of the collective as stipulated in “Hiring”**
-2.  **Because we value a democratic workplace, such workers are
+    of the collective as stipulated in “Hiring”
+2.  Because we value a democratic workplace, such workers are
     understood to either be filling a temporary need that is limited in
     duration, or contributing in a strictly delimited part-time manner
     to the operations of the business. Non collective members should
-    either:**
-    1.  **Work one year or less in the project** *or*
-    2.  **Work eight hours or less per week, averaged on a quarterly
-        basis, in the project**
+    either:
+    1.  Work one year or less in the project *or*
+    2.  Work eight hours or less per week, averaged on a quarterly
+        basis, in the project
 
-3.  **Workers exceeding the limitations above should be considered for
+3.  Workers exceeding the limitations above should be considered for
     collective membership, and should not remain employed if they exceed
     the above limits but the collective declines to extend an offer of
-    membership.**
-4.  **Because we value an egalitarian workplace, such workers shall not
+    membership.
+4.  Because we value an egalitarian workplace, such workers shall not
     be paid an hourly wage less than the lowest paid member of the
-    collective.**
+    collective.
 
 
 Departments
