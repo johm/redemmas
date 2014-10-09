@@ -44,6 +44,7 @@ Definitions
 1.  Red Emma’s LLC, hereafter “Red Emma’s”: the legal organization registered as a limited liability company in Maryland.
 2.  Collective: the group of people who have become members of Red Emma’s.
 3.  Non-member employees: the group of people who work for Red Emma’s, but are not Red Emma’s members.
+4.  Attendance: physical presence at a meeting, or participation via phone or other audio/video channel.
 
 Bylaws Generally
 ================
@@ -66,6 +67,7 @@ Meetings
     Collective in accordance with the decision making structure
     outlined in this document.
 1.  The Collective will meet in a timely and regular fashion. 
+3.  Members must remember that they have a responsibility to attend meetings of the Collective on a regular basis.  
 2.  **Full collective meetings take place on the first Monday of each
     month, starting at 6:30PM.**
 3.  **The collective will meet quarterly to discuss budgeting and the
@@ -76,7 +78,7 @@ Meetings
     a meeting in which at least two-thirds of the membership is present.
     Such decisions will be announced a week in advance. Emergency
     meetings can be called with two thirds of the Collective present.
-5.  All other decisions must be made at a meeting where at least one
+5.  All other decisions must be made at a meeting here at least one
     half of the collective membership is in attendance.
 6.  In the event that the meeting does not yield a consensus on an
     issue, a vote may be made where at least three-fourths of the
