@@ -45,6 +45,12 @@ Definitions
 2.  Collective: the group of people who have become members of Red Emma’s.
 3.  Non-member employees: the group of people who work for Red Emma’s, but are not Red Emma’s members.
 
+Bylaws Generally
+================
+
+1. The bylaws stated here shall also serve as the official operating agreement for Red Emma’s.
+2. Amendments to the bylaws shall be made in accordance with the procedure for major decisions stipulated in the Meetings Section.
+
 General Meetings
 ================
 
@@ -512,9 +518,6 @@ Advisory Council (proposed language, general direction agreed on in 2013)
 Relationship of the Red Emma’s Collective to Red Emma’s LLC
 ===========================================================
 
-1.  The Bylaws stated here shall also serve as the official operating
-    agreement for Red Emma’s Limited Liability Corporation (henceforth
-    the LLC).
 2.  All assets of the collective will be legally held by the LLC. All
     debts of the collective will be legally in the name of the LLC.
     Individual members of the LLC shall not be held liable as
@@ -545,11 +548,6 @@ Relationship of the Red Emma’s Collective to Red Emma’s LLC
         will be decided on in accordance with the procedure stipulated
         in section 2.2 (major decisions).
 
-Bylaws Amendments
-=================
-
-1.  Amendments to the bylaws shall made in accordance with the procedure
-    for major decisions stipulated in section 2.2.
 
 Thread Coffee
 =============
