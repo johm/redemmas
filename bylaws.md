@@ -62,6 +62,9 @@ Assets of Red Emma’s
 Meetings
 ========
 
+1. All management decisions for Red Emma's are to be made by the
+    Collective in accordance with the decision making structure
+    outlined in this document.
 1.  The Collective will meet in a timely and regular fashion. Meeting
     minutes shall be recorded at all Collective meetings and made
     available to all members.
@@ -526,9 +529,6 @@ Advisory Council (proposed language, general direction agreed on in 2013)
 Relationship of the Red Emma’s Collective to Red Emma’s LLC
 ===========================================================
 
-3.  All management decisions for the LLC are to be made by the
-    Collective in accordance with the decision making structure outlined
-    in this document.
 4.  Membership in the LLC is subject in all cases to the decisions of
     the Collective taken in accordance with the stipulations of this
     document, with the specific consequences that:
