@@ -65,9 +65,7 @@ Meetings
 1. All management decisions for Red Emma's are to be made by the
     Collective in accordance with the decision making structure
     outlined in this document.
-1.  The Collective will meet in a timely and regular fashion. Meeting
-    minutes shall be recorded at all Collective meetings and made
-    available to all members.
+1.  The Collective will meet in a timely and regular fashion. 
 2.  **Full collective meetings take place on the first Monday of each
     month, starting at 6:30PM.**
 3.  **The collective will meet quarterly to discuss budgeting and the
