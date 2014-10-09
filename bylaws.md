@@ -68,10 +68,10 @@ Meetings
     outlined in this document.
 1.  The Collective will meet in a timely and regular fashion. 
 3.  Members must remember that they have a responsibility to attend meetings of the Collective on a regular basis.  
-2.  **Full collective meetings take place on the first Monday of each
-    month, starting at 6:30PM.**
-3.  **The collective will meet quarterly to discuss budgeting and the
-    overall financial situation of the business.**
+2.  Full Collective meetings take place on the first Monday of each
+    month, starting at 6:30PM.
+3.  The Collective will meet quarterly to discuss budgeting and the
+    overall financial situation of the business.
 4.  Any decision to be made that affects the bylaws, membership,
     mission, formation and dissolution of committees, location or time
     of regular meetings, or any other major decision must be made during
