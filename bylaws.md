@@ -59,8 +59,8 @@ Assets of Red Emma’s
 3. If the Collective should choose to dissolve Red Emma’s, the assets of Red Emma’s will first be used to pay off any outstanding debts incurred by Red Emma’s. The disposition of any remaining assets will be decided on in accordance with the procedure for major decisions stipulated in the Meetings Section.
 4. A court of competent jurisdiction shall not order the foreclosure of the economic interest of the worker-member subject to a charging order and order the sale of the economic interest of the debtor. This section shall supersede Section 4A-607(c)(3) of the Maryland Limited Liability Company Act.
 
-General Meetings
-================
+Meetings
+========
 
 1.  The Collective will meet in a timely and regular fashion. Meeting
     minutes shall be recorded at all Collective meetings and made
