@@ -439,20 +439,20 @@ Employees who are not collective members
     collective.**
 
 
-**Departments**
-===============
+Departments
+===========
 
-1.  **The day-to-day work of the collective shall be carried out by the
-    following departments:**
-    1.  **Food Department \*\
-        \#\#**Books department (Books, Periodicals, Zines, Ephemera,
-        Shwag, Tabling co-ordination, Course texts, online ordering)\*
-    2.  **Programming and publicity department \*\
-        \#\#**Infrastructure department (Tech, facility, financial
-        recordkeeping, accounting, and tax/regulatory compliance)\*
+1.  The day-to-day work of the collective shall be carried out by the
+    following departments:
+    1.  Food Department
+    1.  Books department (Books, Periodicals, Zines, Ephemera,
+        Shwag, Tabling co-ordination, Course texts, online ordering)
+    1.  Programming and publicity department
+    1.  Infrastructure department (Tech, facility, financial
+        recordkeeping, accounting, and tax/regulatory compliance)
 
-2.  **Departments will meet regularly, and will be responsible for
-    assigning tasks to their members.**
+2.  Departments will meet regularly, and will be responsible for
+    assigning tasks to their members.
 
 Grievance Procedure
 ===================
