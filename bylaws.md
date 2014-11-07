@@ -44,6 +44,7 @@ Definitions
 1.  Red Emma’s LLC, hereafter “Red Emma’s”: the legal organization registered as a limited liability company in Maryland.
 2.  Collective: the group of people who have become members of Red Emma’s.
 3.  Non-member employees: the group of people who work for Red Emma’s, but are not Red Emma’s members.
+4.  Attendance: physical presence at a meeting, or participation via phone or other audio/video/live-chat channel.
 
 Bylaws Generally
 ================
