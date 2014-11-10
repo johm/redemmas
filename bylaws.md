@@ -335,12 +335,12 @@ Hiring
 
     4.  Once a candidate has been selected:
         1.  The candidate can start paid work immediately in a
-            probationary period.
+            probationary period, as an employee of Red Emma's.
         2.  After at least 1 month + 20 hrs of work, after a
             departmental review, the new hire is interviewed by the full
             collective at a monthly collective meeting.
         3.  If the full collective approves the hire, they become a
-            prospective collective member.
+            prospective collective member.  A prospective collective member remains an employee of Red Emma's, but may enjoy additional privileges and responsibilities as outlined elsewhere in these by-laws.
 
     5.  After three months:
         1.  There is another departmental review.
