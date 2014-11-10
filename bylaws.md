@@ -175,7 +175,7 @@ Collective Membership
     by the membership, following an opportunity for the expelled member
     to be heard, orally or in writing, at the meeting.
 11. The Collective maintains the right to hold individual collective
-    members, prospective collective members, or regular employees personally liable for
+    members, prospective collective members, or other non-member employees personally liable for
     financial losses or damage to assets deemed by the Collective to
     have resulted from grossly negligent or malicious behavior on the
     part of said individuals. Such a decision falls under the procedure
