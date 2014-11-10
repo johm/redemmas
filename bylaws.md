@@ -340,15 +340,15 @@ Hiring
             departmental review, the new hire is interviewed by the full
             collective at a monthly collective meeting.
         3.  If the full collective approves the hire, they become a
-            provisional collective member.
+            prospective collective member.
 
     5.  After three months:
         1.  There is another departmental review.
 
-    6.  After six months as a provisional collective member:
+    6.  After six months as a prospective collective member:
         1.  After a final departmental review, the full collective
             reviews the new hire, and if there are no blocking concerns,
-            the provisional member is added to the LLC.
+            the prospective member is added to the LLC as a member and becomes a collective member.
 
     7.  All reviews are recorded and kept on file, and are geared to
         provide a standardized formula for evaluation.
