@@ -118,8 +118,6 @@ Collective Membership
 3.  All Red Emma’s Collective documents, meetings, and meeting notes,
     and other operating agreements are open to scrutiny by any
     Collective member.
-4.  No person shall begin the membership process prior to attending at
-    least one general meeting.
 5.  The prospective member must fulfill the following requirements
     before the Collective may decide on admission:
     1.  The prospective member must join The Industrial Workers of the
