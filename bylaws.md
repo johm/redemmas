@@ -249,6 +249,8 @@ Member’s capital
         quarterly basis for inspection by all active members of the
         LLC.
 
+
+
 5.  Loans to collective members
     1.  Members may choose to borrow against their member capital
         account, with the total amount advanced in this fashion not to
@@ -266,6 +268,19 @@ Member’s capital
         payment will be made by the LLC no more than six months after
         their relationship with the LLC has been severed. The exact
         schedule of repayment is to be determined by the LLC.
+
+    2. Members exiting voluntarily from the LLC may elect to leave the
+       balance of their capital account with the LLC through the end
+       of the fiscal year, with the LLC paying said balance back up to
+       six months after the end of that fiscal year, in order to
+       remain eligible for any shares of profit or loss to be
+       allocated at the end of the fiscal year, as specified in 7.1
+       below.  Members who choose to request the balance of their
+       capital account upon their departure from the project and not
+       at the end of the fiscal year, and members whose departure from
+       the project is not voluntary, are not eligible to receive
+       allocations of profit and loss at the end of the fiscal year in
+       which they departed.
 
 7.  Allocation of profit and loss
     1.  All profit will be passed through for tax purposes to LLC
