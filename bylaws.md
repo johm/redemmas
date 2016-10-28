@@ -366,10 +366,16 @@ Hiring
         1.  After a final departmental review, the full collective
             reviews the new hire, and if there are no blocking concerns,
             the prospective member is added to the LLC as a member and becomes a collective member.
+	2.  If either the department or the full collective determines
+   	    the new hire is not ready for collective membership at six
+   	    months, the process may be extended for up to an
+   	    additional six months, with a final review at both levels
+   	    necessary before become a member of the LLC and
+   	    collective.
 
-    7.  All reviews are recorded and kept on file, and are geared to
+    8.  All reviews are recorded and kept on file, and are geared to
         provide a standardized formula for evaluation.
-    8.  The existence of scheduled reviews by a department or the full
+    9.  The existence of scheduled reviews by a department or the full
         collective do not preclude termination for gross incompetence or
         malicious behavior.
 
