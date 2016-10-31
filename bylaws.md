@@ -234,7 +234,7 @@ Member’s capital
         2.  The member elects to receive back wages they have
             previously elected to retain in their capital account.
         3.  The LLC elects to distribute some portion of retained
-            patronage refunds 
+            patronage refunds. 
         4.  The LLC allocates, at the end of the fiscal year, a
             member’s share of any loss incurred in that year, in
             proportion to the member’s share of the total held in all
