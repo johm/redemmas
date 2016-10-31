@@ -257,7 +257,7 @@ Member’s capital
         exceed 1/2 of the recorded balance. Such loans must be approved
         by the LLC before being dispersed. Loans to members in other
         amounts, or against other assets of the LLC, are strongly
-        discouraged
+        discouraged.
 
 6.  Member capital and departing members
     1.  Upon a voluntary or involuntary exit from the LLC, the member
