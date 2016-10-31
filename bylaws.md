@@ -208,6 +208,11 @@ Member’s capital
         in 50 weeks. Members may also pay a portion of their $1,000
         share up front, and pay the remaining funds through an automatic
         deduction.
+    3.  Member shares represent an important commitment to the LLC and
+        a sign of personal investment in the workplace and in the
+        mission of the LLC. As such, the contribution of this $1,000
+        share is distinct from any retained earnings allocated to the
+        member.
 
 4.  Capital Accounts
     1.  A member’s capital account represents the amount of investment
@@ -244,6 +249,11 @@ Member’s capital
             Additionally, the capital corresponding to a) member shares
             and b) any loans from the member to LLC should not be
             reduced by a share of operating losses.
+	5.  The member decides to take a cash distribution against the
+	    balance of their capital account. Such distributions to
+	    must not exceed a total of $500 to a given LLC member in a
+	    given calendar year, and must not result in a balance of
+	    less than $1,000 in the member's capital account.
 
     5.  Records of member capital accounts will be available on a
         quarterly basis for inspection by all active members of the
