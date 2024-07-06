@@ -1,3 +1,6 @@
+* These bylaws are only of historic interest, and a relic of our attempt to DIY a governing structure. We eventually realized there were better models, and adopted a lightly modified version of the ICA model by-laws, which you can see here: https://drive.google.com/file/d/1apmxo9ouVhRaHj4ehRIR8XkNkE2rbGMH/view?usp=sharing *
+
+
 Mission
 =======
 
